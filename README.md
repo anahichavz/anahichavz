@@ -1,6 +1,6 @@
 ## ¡Hola mundo! 👋
 
-## ¡Bienvenido a mi perfil! 👋
+## ¡Bienvenido a mi perfil! 😎
 
 Soy una apasionada estudiante de Ingeniería Bioquímica y Programación, dos mundos aparentemente dispares que convergen en mi búsqueda por la innovación y la resolución de problemas complejos. Mi fascinación por la biología molecular y la química se entrelaza de manera sorprendente con mi amor por la codificación. Aquí, en mi rincón digital, explorarás mi viaje en busca de la convergencia entre la ciencia de la vida y el poder de la tecnología.
 
